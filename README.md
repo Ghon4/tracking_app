@@ -1,4 +1,4 @@
-# trackingApp
+# simple tracking app
 
 A new Flutter project.
 
